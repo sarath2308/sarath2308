@@ -24,7 +24,7 @@
 `JavaScript` `TypeScript` `HTML` `CSS`
 
 ### ⚛️ Frontend  
-`React` `Redux` `Tailwind CSS`
+`React` `Redux` `Tailwind CSS` `BootStrap`
 
 ### 🛠️ Backend  
 `Node.js` `Express.js`
@@ -36,7 +36,7 @@
 `Git` `GitHub` `Postman` `VS Code` `Figma`
 
 ### 🛡️ Other Skills  
-`REST APIs` `JWT Auth` `Clean Code` `Deployment`
+`REST APIs` `JWT Auth` `Clean Code` `Deployment` `SOLID PRINCIPLES`
 
 ---
 
@@ -54,8 +54,13 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://linkedin.com/in/sarath-v-p-3348a7336)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat-square)](mailto:sarathvp2308@gmail.com)
-
+<p align="center">
+  <a href="https://linkedin.com/in/sarath-v-p-3348a7336">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:sarathvp1546@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat-square" />
+  </a>
+</p>
 ---
 
