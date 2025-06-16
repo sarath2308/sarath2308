@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Consistency+is+what+transforms+average+into+excellence." alt="Typing SVG" />
 </p>
 
+
 ---
 
 ## 🧠 About Me
